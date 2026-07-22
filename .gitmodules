@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "invasible"]
+	path = invasible
+	url = https://github.com/cran/invasible
 [submodule "isoniche"]
 	path = isoniche
 	url = https://github.com/cran/isoniche
